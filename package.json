@@ -1,0 +1,12 @@
+{
+  "name": "resize-images",
+  "version": "1.0.0",
+  "description": "Find all images in a folder and resize to specified size using imagemagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brady Cartmell",
+  "license": "ISC",
+  "dependencies": {}
+}
